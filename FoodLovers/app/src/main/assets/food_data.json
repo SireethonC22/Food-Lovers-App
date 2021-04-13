@@ -1,0 +1,101 @@
+[{
+  "Imagesfile": "food1",
+  "Foodname": "Very Strawbeary Pancake",
+  "Imagespin": "location",
+  "Shopname": "Hungry Bear Pancake",
+  "Price": "145 Baht",
+  "Imagesrate": "rate5",
+  "Popular": "5",
+  "Descript": "แพนเค้กนุ่มๆ ทานคู่กับสตอเบอรี่สด ครัมเบิ้ลกรอบๆ และ ไอติมวนิลลาหอมหวาน ทุกคำกลมกล่อม เข้ากันสุดๆ เลย"
+},
+  {
+    "Imagesfile": "food2",
+    "Foodname": "Chubby Bear Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "125 Baht",
+    "Imagesrate": "rate4",
+    "Popular": "4",
+    "Descript": "แพนเค้กสอดไส้ด้วยเบคอนกรอบ สูตรเด็ดของร้าน hungry bear หวานแพนเค้กหอมเบคอนกันทั้งวันเลย~!"
+  },
+  {
+    "Imagesfile": "food3",
+    "Foodname": "Brownie Bear Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "175 Baht",
+    "Imagesrate": "rate3",
+    "Popular": "3",
+    "Descript": "วิปครีม แพนเค้กช็อคโกแลตและบราวนี่ ไอศกรีมชอคโกแลตวางไว้ข้างบน มาฉลองกันเถอะ!"
+  },
+  {
+    "Imagesfile": "food4",
+    "Foodname": "Monkey Bear Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "145 Baht",
+    "Imagesrate": "rate4",
+    "Popular": "4",
+    "Descript": "กล้วยและแพนเค้กช็อคโกแลตอุ่นๆ กับไอศกรีมเย็นๆ เข้ากันสุดๆ ไปเลย!"
+  },
+  {
+    "Imagesfile": "food5",
+    "Foodname": "Cotton Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "189 Baht",
+    "Imagesrate": "rate3 Baht",
+    "Popular": "3",
+    "Descript": "เบื่อๆ เซ็งๆ ต้องทาน Cotton Pancake เพิ่งพลังความสดใสกับซะหน่อยแล้วล่ะ หอมนุ่มลิ้น ละลายในปาก อร่อยทั้งกายและใจเลย~! ห"
+  },
+  {
+    "Imagesfile": "food6",
+    "Foodname": "Choco Strawbeary Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "145 Baht",
+    "Imagesrate": "rate5",
+    "Popular": "5",
+    "Descript": "แน่นๆ เน้นๆ แบบนี้ ทั้งแพนเค้กและไอศกรีมช็อคโกแลต! ตักกี่คำก็อร่อยทุกคำแน่นอน!~"
+  },
+  {
+    "Imagesfile": "food7",
+    "Foodname": "Cookies N' Cream Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "145 Baht",
+    "Imagesrate": "rate3",
+    "Popular": "3",
+    "Descript": "ลงตัวสุดๆ! แพนเค้กหอมๆ ไอศกรีมหวานๆ และคุ้กกี้โอรีโอ้กรุบกรอบ ทานด้วยกัน กลมกล่อมอย่าบอกใครเชียว!"
+  },
+  {
+    "Imagesfile": "food8",
+    "Foodname": "D.I.Y Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "175 Baht",
+    "Imagesrate": "rate2",
+    "Popular": "2",
+    "Descript": "แพนเค้กพี่หมีทูโทน ทั้งอร่อยและน่ารัก ทานคู่กับทอปปิ้งได้ตั้ง 8 อย่างเลยน้า~ อร่อยไม่มีเบื่อซักคำเลย!"
+  },
+  {
+    "Imagesfile": "food9",
+    "Foodname": "Fondue Pancake",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "185 Baht",
+    "Imagesrate": "rate4",
+    "Popular": "4",
+    "Descript": "กีวี่สดๆ สตอเบอร์รี่ และมาชเมลโลว ทานกับแพนเค้กและช็อคโกแลตข้นๆ อร่อยน้า~"
+  },
+  {
+    "Imagesfile": "food10",
+    "Foodname": "Fluffy s’more",
+    "Imagespin": "location",
+    "Shopname": "Hungry Bear Pancake",
+    "Price": "145 Baht",
+    "Imagesrate": "rate5",
+    "Popular": "5",
+    "Descript": "แพนเค้กน้องหมีกับมาชเมลโล่วยืดๆ ด้านในมีครัมเบิ้ลกับช็อคโกแลตด้วยน้าาา"
+  }
+]
